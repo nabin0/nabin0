@@ -78,5 +78,5 @@
 <br>
 
 ```
-    std::cout << "Have G'day << std::endl;
+    std::cout << "Have a G'day << std::endl;
 ```
