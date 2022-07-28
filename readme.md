@@ -19,7 +19,7 @@
 <div>
   <samp>
       <br/>
-      <a href="![linkdin]" target="blank"><img align="center"
+      <a href="www.linkedin.com/in/nabin0" target="blank"><img align="center"
          src="https://img.shields.io/badge/linkedin-%231DA1F2.svg?style=for-the-badge&logo=linkedin&logoColor=white"
          alt="linkdin" height="30"/></a>
       <a href="https://www.facebook.com/ned.nabin07" target="blank"><img align="center"
