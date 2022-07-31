@@ -58,7 +58,7 @@
 
 <details>
     <summary>Tools </summary>
-    ![Android Studio](https://img.shields.io/badge/Android%20Studio-3DDC84.svg?style=for-the-badge&logo=android-studio&logoColor=white)
+    <img src="https://img.shields.io/badge/-Android%20Studio-3DDC84?style=flat-square&logo=android%20studio&logoColor=white"/> 
     <img src="https://img.shields.io/badge/-Pycharm-000000?style=flat-square&logo=pycharm&logoColor=white"/> 
     <img src="https://img.shields.io/badge/-sublime%20Text-ff9800?style=flat-square&logo=sublime%20text&logoColor=white"/> 
     <img src="https://img.shields.io/badge/-Visual%20Studio%20Code-23A9F2?style=flat-square&logo=Visual%20Studio%20Code&logoColor=white"/> 
